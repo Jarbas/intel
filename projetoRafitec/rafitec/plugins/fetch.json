@@ -1,0 +1,106 @@
+{
+    "cordova-plugin-device-motion": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-device-motion"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Jarbas Coltro\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-device"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-geolocation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-file": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-file"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-media": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-media"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-inappbrowser"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Jarbas Coltro\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-statusbar": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Jarbas Coltro\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-statusbar"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-contacts": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-contacts"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-camera": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-camera"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-network-information"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-dialogs"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-vibration": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\rober\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-vibration"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
